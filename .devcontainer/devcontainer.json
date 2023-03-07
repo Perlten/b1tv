@@ -1,0 +1,11 @@
+{
+    "name": "B1TV",
+    "build": {
+        "context": "..",
+        "dockerfile": "Dockerfile"
+    },
+    "runArgs": [
+        "--name",
+        "B1TV"
+    ]
+}
